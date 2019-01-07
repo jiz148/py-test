@@ -1,0 +1,15 @@
+flake8
+setuptools
+mock
+moto
+pbr
+pylint
+pytest
+pytest-cache
+pytest-cov
+pytest-flakes
+pytest-pylint
+pytest-logging
+pytest-pep8
+PyYAML
+pytz
